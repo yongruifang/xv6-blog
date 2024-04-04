@@ -10,6 +10,13 @@ export default sidebar({
       link: "labs/",
       children: "structure",
     },
+    {
+      text: "学习笔记",
+      icon: "laptop-code",
+      prefix: "blogs/",
+      link: "blogs/",
+      children: "structure",
+    },
     // {
     //   text: "案例",
     //   icon: "laptop-code",
