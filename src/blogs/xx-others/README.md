@@ -2,6 +2,17 @@
 title: 其他
 icon: lightbulb
 ---
+## 参考
+官方文档: [6.828](https://pdos.csail.mit.edu/6.828/2020/labs/)
+- 参考博客：
+	1. [xv6.dgs.zone](https://xv6.dgs.zone/labs/answers/lab1.html)
+	2. [miigon](https://blog.miigon.net/tags/operating-system/)
+  3. [解析Ta](https://blog.csdn.net/u013577996/article/details/108679997)
+- 环境: Ubuntu
+- 依赖:
+```bash 
+apt-get install git build-essential gdb-multiarch qemu-system-misc gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu
+```
 
 ## 官方仓库克隆
 ```bash 
