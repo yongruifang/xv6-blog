@@ -1,5 +1,5 @@
 ---
-title: lab4-Traps
+title: lab04-Traps
 icon: lightbulb
 ---
 

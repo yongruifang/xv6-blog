@@ -1,5 +1,5 @@
 ---
-title: lab7-Multithreding
+title: lab07-Multithreding
 icon: lightbulb
 ---
 

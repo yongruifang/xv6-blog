@@ -1,5 +1,5 @@
 ---
-title: lab8-Locks
+title: lab08-Locks
 icon: lightbulb
 ---
 

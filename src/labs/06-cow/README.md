@@ -1,5 +1,5 @@
 ---
-title: lab6-copy on write
+title: lab06-copy on write
 icon: lightbulb
 ---
 

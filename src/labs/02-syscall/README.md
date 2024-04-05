@@ -1,5 +1,5 @@
 ---
-title: lab2-system calls
+title: lab02-system calls
 icon: lightbulb
 ---
 

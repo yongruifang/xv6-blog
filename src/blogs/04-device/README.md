@@ -1,5 +1,5 @@
 ---
-title: 设备管理
+title: 04-设备管理
 icon: lightbulb
 ---
 

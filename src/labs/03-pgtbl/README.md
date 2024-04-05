@@ -1,5 +1,5 @@
 ---
-title: lab3-Page tables
+title: lab03-Page tables
 icon: lightbulb
 ---
 

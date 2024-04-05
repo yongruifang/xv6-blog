@@ -1,5 +1,5 @@
 ---
-title: lab5-xv6 lazy page allocation
+title: lab05-xv6 lazy page allocation
 icon: lightbulb
 ---
 

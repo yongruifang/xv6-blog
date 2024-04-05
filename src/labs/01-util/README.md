@@ -1,5 +1,5 @@
 ---
-title: lab1-xv6和Unix工具包
+title: lab01-xv6和Unix工具包
 icon: lightbulb
 ---
 
