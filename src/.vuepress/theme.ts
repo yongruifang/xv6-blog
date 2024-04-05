@@ -18,9 +18,9 @@ export default hopeTheme({
   //   "fontawesome",
   // ],
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/image/system.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "yongruifang",
 
   docsDir: "src",
 

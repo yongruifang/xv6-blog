@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /assets/image/system.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -11,12 +11,13 @@ heroText: xv6分析与实验
 tagline: 记录个人实验文档和资料收集
 actions:
   - text: 实验步骤
-    icon: lightbulb
+    icon: flask
     link: ./labs/
     type: primary
 
-  - text: 文档
-    link: ./docs/
+  - text: 博客文章
+    icon: blog
+    link: ./blogs/
 
 
 copyright: false
