@@ -7,9 +7,10 @@ icon: lightbulb
 [实验介绍](https://pdos.csail.mit.edu/6.828/2020/labs/thread.html)
 
 ## 1. Uthread: switching between threads
-:::code-tabs #shell
-@tab u\uthread.c 
-```d
+**u\uthread.c** 
+:::code-tabs #shell 
+@tab :struct 
+```c
 +++
 // 用户线程的上下文结构体
 struct tcontext {
@@ -37,7 +38,9 @@ struct thread {
   struct tcontext context;
 +++
 }
-
+```
+@tab thread_schedule
+```c
 void
 thread_schedule(void)
 {
@@ -55,6 +58,9 @@ if(current_thread != next_thread) { /* switch threads?  */
 +++
   }else ...
 }
+```
+@tab thread_create 
+```c
 
 void
 thread_create(void (*func)())
@@ -68,7 +74,11 @@ thread_create(void (*func)())
 +++
 }
 ```
-@tab u\uthread_switch.S 
+:::
+
+**u\thread_switch.S**
+:::code-tabs #shell
+@tab u\thread_switch.S 
 ```S
 thread_switch:
 	/* YOUR CODE HERE */
