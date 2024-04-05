@@ -1,6 +1,6 @@
 ---
 title: lab03-Page tables
-icon: lightbulb
+icon: table
 ---
 
 ## 介绍

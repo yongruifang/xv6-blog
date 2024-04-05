@@ -1,6 +1,6 @@
 ---
 title: lab05-xv6 lazy page allocation
-icon: lightbulb
+icon: table
 ---
 
 ## 介绍

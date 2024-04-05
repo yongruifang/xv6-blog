@@ -1,6 +1,6 @@
 ---
 title: 02-内存管理
-icon: lightbulb
+icon: memory
 ---
 
 ## 介绍

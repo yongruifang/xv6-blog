@@ -1,6 +1,6 @@
 ---
 title: lab07-Multithreding
-icon: lightbulb
+icon: bars-progress
 ---
 
 ## 介绍

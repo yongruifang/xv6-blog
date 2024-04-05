@@ -1,6 +1,6 @@
 ---
 title: lab06-copy on write
-icon: lightbulb
+icon: copy
 ---
 
 ## 介绍

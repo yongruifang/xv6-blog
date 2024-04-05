@@ -1,7 +1,7 @@
 ---
 title: 博客文章
 index: false
-icon: laptop-code
+icon: book
 category:
   - 理论学习
 ---

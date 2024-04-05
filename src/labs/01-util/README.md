@@ -1,6 +1,6 @@
 ---
 title: lab01-xv6和Unix工具包
-icon: lightbulb
+icon: toolbox
 ---
 
 ## 介绍

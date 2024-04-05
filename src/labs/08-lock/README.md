@@ -1,6 +1,6 @@
 ---
 title: lab08-Locks
-icon: lightbulb
+icon: lock
 ---
 
 ## 介绍

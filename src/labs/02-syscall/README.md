@@ -1,6 +1,6 @@
 ---
 title: lab02-system calls
-icon: lightbulb
+icon: phone
 ---
 
 ## 介绍

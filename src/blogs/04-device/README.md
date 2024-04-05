@@ -1,6 +1,6 @@
 ---
 title: 04-设备管理
-icon: lightbulb
+icon: print
 ---
 
 ## 介绍

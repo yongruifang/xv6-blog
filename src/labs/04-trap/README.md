@@ -1,6 +1,6 @@
 ---
 title: lab04-Traps
-icon: lightbulb
+icon: stop
 ---
 
 ## 介绍

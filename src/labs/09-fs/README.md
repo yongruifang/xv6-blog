@@ -1,6 +1,6 @@
 ---
 title: lab09-file system
-icon: lightbulb
+icon: file
 ---
 
 ## 介绍
